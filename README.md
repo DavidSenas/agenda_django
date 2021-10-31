@@ -1,3 +1,3 @@
 # Agenda Criada em  Django
 
-## Mina primeir aplicação em Django
+## Minha primeira aplicação em Django
